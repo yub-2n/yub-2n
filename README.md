@@ -14,6 +14,7 @@
 | 프로젝트 | 핵심 결과 | 보기 |
 |---|---|---|
 | **약관 난이도와 보험금 분쟁 결과** <br><sub>보험 CX · 3인 팀 · 데이터 수집·라벨링 담당</sub> | 분쟁의 46%가 '보험금 지급사유' 조항에 집중 → 해당 조항부터 쉽게 고쳐 쓰는 시험 개선 권고 | [대시보드](https://yub-2n.github.io/ai-data-bootcamp/projects/04_insurance-cx-terms-difficulty/dashboard/) · [코드](https://github.com/yub-2n/ai-data-bootcamp/tree/main/projects/04_insurance-cx-terms-difficulty) |
+| **비 한 번에 놓치는 외지인 매출** <br><sub>2026 빅콘테스트 · 3인 팀 · 분석·모델링 담당</sub> | 30mm 호우일 춘천 외지인 결제 **−21.5%**, 5일 뒤에도 48.3% 미회복 → 30mm 날씨지수 보험 제안 | [분석·코드](https://github.com/yub-2n/ai-data-bootcamp/tree/main/projects/05_bigcontest-climate-commerce) |
 | **궁·능 관람객 예측과 인력 배치** <br><sub>시계열 · 4인 팀 · 전처리·모델링 담당</sub> | Chronos-2 + 운영 정보로 인력 배치 비용 **−42.8%** (백테스트) | [보고서·코드](https://github.com/yub-2n/ai-data-bootcamp/tree/main/projects/03_timeseries-forecast-report) |
 | **Olist 셀러 유치 전략** <br><sub>대시보드 · 4인 팀</sub> | 유치 대상 세그먼트를 바꿔 같은 계약으로 활성 셀러 **+24.6%** | [대시보드](https://yub-2n.github.io/ai-data-bootcamp/projects/02_olist-seller-acquisition-dashboard/step7_dashboard.html) · [코드](https://github.com/yub-2n/ai-data-bootcamp/tree/main/projects/02_olist-seller-acquisition-dashboard) |
 | **Olist 배송 지연과 리뷰** <br><sub>ML · 4인 팀</sub> | 지연 시 평균 리뷰 4.29 → **2.57점**, 지연의 81%가 운송사 구간 | [노트북·발표](https://github.com/yub-2n/ai-data-bootcamp/tree/main/projects/01_olist-delivery-review) |
